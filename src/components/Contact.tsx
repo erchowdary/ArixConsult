@@ -44,7 +44,7 @@ export function Contact() {
                 <Mail className="h-6 w-6 text-blue-600" />
               </div>
               <h3 className="text-gray-900 mb-2">Email</h3>
-              <p className="text-gray-600 text-sm sm:text-base break-words">sales@arixconsult.com.sg</p>
+              <p className="text-gray-600 text-sm sm:text-base break-words">sales@arixconsult.com</p>
             </CardContent>
           </Card>
 
