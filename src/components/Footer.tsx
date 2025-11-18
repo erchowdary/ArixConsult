@@ -18,20 +18,20 @@ export function Footer() {
           <div>
             <h4 className="text-white mb-4">Services</h4>
             <ul className="space-y-2 text-sm">
-              <li><a href="#services" className="hover:text-white transition-colors">Contract Staffing</a></li>
-              <li><a href="#services" className="hover:text-white transition-colors">Direct Hire</a></li>
-              <li><a href="#services" className="hover:text-white transition-colors">Project Consulting</a></li>
-              <li><a href="#services" className="hover:text-white transition-colors">Executive Search</a></li>
+              <li><a href="#services-portfolio" className="hover:text-white transition-colors">Contract Staffing</a></li>
+              <li><a href="#services-portfolio" className="hover:text-white transition-colors">Direct Hire</a></li>
+              <li><a href="#services-portfolio" className="hover:text-white transition-colors">Project Consulting</a></li>
+              {/* <li><a href="#services-portfolio" className="hover:text-white transition-colors">Executive Search</a></li> */}
             </ul>
           </div>
 
           <div>
             <h4 className="text-white mb-4">Expertise</h4>
             <ul className="space-y-2 text-sm">
-              <li><a href="#expertise" className="hover:text-white transition-colors">IC Design</a></li>
-              <li><a href="#expertise" className="hover:text-white transition-colors">Manufacturing</a></li>
-              <li><a href="#expertise" className="hover:text-white transition-colors">Process Engineering</a></li>
-              <li><a href="#expertise" className="hover:text-white transition-colors">Equipment</a></li>
+            {/*  <li><a href="#expertise" className="hover:text-white transition-colors">IC Design</a></li>  */}
+              <li><a href="#semiconductor-expertise" className="hover:text-white transition-colors">Manufacturing</a></li>
+              <li><a href="#semiconductor-expertise" className="hover:text-white transition-colors">Process Engineering</a></li>
+              <li><a href="#semiconductor-expertise" className="hover:text-white transition-colors">Equipment</a></li>
             </ul>
           </div>
 
@@ -40,7 +40,7 @@ export function Footer() {
             <ul className="space-y-2 text-sm">
               <li className="flex items-start gap-2">
                 <Mail className="h-4 w-4 mt-1 flex-shrink-0" />
-                <span>sales@arixconsult.com.sg</span>
+                <span>sales@arixconsult.com</span>
               </li>
               <li className="flex items-start gap-2">
                 <Linkedin className="h-4 w-4 mt-1 flex-shrink-0" />

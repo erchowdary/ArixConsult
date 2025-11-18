@@ -84,7 +84,7 @@ export function BannerCarousel() {
         <CarouselContent>
           {slides.map((slide, index) => (
             <CarouselItem key={index}>
-              <div className="relative h-[500px] sm:h-[600px] md:h-[700px] lg:h-[800px]">
+              <div className="relative h-[500px] sm:h-[300px] md:h-[300px] lg:h-[400px]">
                 <img
                   src={slide.src}
                   alt={slide.alt}

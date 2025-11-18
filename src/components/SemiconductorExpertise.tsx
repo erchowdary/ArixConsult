@@ -52,7 +52,7 @@ export function SemiconductorExpertise() {
             ))}
           </div>
 
-          {/* Domains */}
+          {/* Domains 
           <div className="mb-10">
             <h3 className="text-gray-900 text-center mb-6">Engineering Domains</h3>
             <div className="flex flex-wrap justify-center gap-3">
@@ -65,9 +65,9 @@ export function SemiconductorExpertise() {
                 </div>
               ))}
             </div>
-          </div>
+          </div>*/}
 
-          {/* Equipment */}
+          {/* Equipment 
           <div>
             <h3 className="text-gray-900 text-center mb-6">Equipment Experience</h3>
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3">
@@ -80,7 +80,7 @@ export function SemiconductorExpertise() {
                 </div>
               ))}
             </div>
-          </div>
+          </div>*/}
         </div>
       </div>
     </section>

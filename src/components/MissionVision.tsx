@@ -38,7 +38,7 @@ export function MissionVision() {
             </Card>
           </div>
 
-          {/* Key Commitments */}
+          {/* Key Commitments 
           <div className="mt-8 sm:mt-12 grid grid-cols-2 sm:grid-cols-4 gap-4 sm:gap-6">
             <div className="text-center p-4 bg-white rounded-xl shadow-md">
               <div className="text-blue-600 mb-1 sm:mb-2">Faster</div>
@@ -56,7 +56,7 @@ export function MissionVision() {
               <div className="text-blue-600 mb-1 sm:mb-2">Lower</div>
               <div className="text-xs sm:text-sm text-gray-600">TCO</div>
             </div>
-          </div>
+          </div>*/}
         </div>
       </div>
     </section>
