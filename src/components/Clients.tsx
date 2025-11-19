@@ -7,7 +7,7 @@ import pivotalLogo from "figma:asset/602cf9647dfc5e3c6b2b5c963179ff73f938fe31.pn
 import infineonLogo from "figma:asset/ad17ddf4d6a6cd2bba5b8dc198c793434503d318.png";
 import micronLogo from "figma:asset/31cbc182a5df4fbf1ce21007e026a1b8e00266b6.png";
 import stLogo from "figma:asset/297e20df920bb226000767ca4b9fc14238e7727a.png";
-import fablogo from "figma:assets/fab.png";
+import fablogo from "figma:assets/FAB.png";
 import chineselogo from "figma:assets/Chinese1.png";
 import ichorlogo from "figma:assets/ichor.png";
 import kyoceralogo from "figma:assets/kyocera.png";
