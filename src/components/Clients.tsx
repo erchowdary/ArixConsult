@@ -7,14 +7,14 @@ import pivotalLogo from "figma:asset/602cf9647dfc5e3c6b2b5c963179ff73f938fe31.pn
 import infineonLogo from "figma:asset/ad17ddf4d6a6cd2bba5b8dc198c793434503d318.png";
 import micronLogo from "figma:asset/31cbc182a5df4fbf1ce21007e026a1b8e00266b6.png";
 import stLogo from "figma:asset/297e20df920bb226000767ca4b9fc14238e7727a.png";
-import fablogo from "figma:asset/fab.png";
-import chineselogo from "figma:asset/Chinese1.png";
-import ichorlogo from "figma:asset/ichor.png";
-import kyoceralogo from "figma:asset/kyocera.png";
-import silterraLogo from "figma:asset/siltera.png";
-import soitecLogo from "figma:asset/soitec.png";
-import ThermoquartzLogo from "figma:asset/ThermoQuartz.png";
-import uctLogo from "figma:asset/uct.png";
+import fablogo from "figma:assets/fab.png";
+import chineselogo from "figma:assets/Chinese1.png";
+import ichorlogo from "figma:assets/ichor.png";
+import kyoceralogo from "figma:assets/kyocera.png";
+import silterraLogo from "figma:assets/siltera.png";
+import soitecLogo from "figma:assets/soitec.png";
+import ThermoquartzLogo from "figma:assets/ThermoQuartz.png";
+import uctLogo from "figma:assets/uct.png";
 
 export function Clients() {
   const clients = [
@@ -26,7 +26,7 @@ export function Clients() {
     { name: "Pivotal Systems", logo: pivotalLogo },
     { name: "Infineon", logo: infineonLogo },
     { name: "Micron Technology", logo: micronLogo },
-    
+    { name: "STMicroelectronics", logo: stLogo },
     { name: "FAB", logo: fablogo },
     { name: "Chinese Semiconductor", logo: chineselogo },
     { name: "Ichor Systems", logo: ichorlogo },
