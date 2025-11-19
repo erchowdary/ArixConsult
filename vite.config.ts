@@ -34,7 +34,7 @@
         'figma:asset/124cb9aabc271ec1dd685e7672f8c16e4568988d.png': path.resolve(__dirname, './src/assets/124cb9aabc271ec1dd685e7672f8c16e4568988d.png'),
         'figma:asset/123eddbce80c0fdd0df78c907efe18693ce21abb.png': path.resolve(__dirname, './src/assets/123eddbce80c0fdd0df78c907efe18693ce21abb.png'),
         'figma:asset/FAB.png': path.resolve(__dirname, './src/assets/FAB.png'),
-        'figma:asset/Chinese1.png': path.resolve(__dirname, './src/assets/Chinese1.png'),
+        'figma:asset/Chinese1.png': path.resolve(__dirname, './src/assets/Chinese 1.png'),
         'figma:asset/ichor.png': path.resolve(__dirname, './src/assets/ichor.png'),
         'figma:asset/kyocera.png': path.resolve(__dirname, './src/assets/kyocera.png'),
         'figma:asset/silterra.png': path.resolve(__dirname, './src/assets/silterra.png'),
