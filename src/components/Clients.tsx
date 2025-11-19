@@ -26,6 +26,7 @@ export function Clients() {
     { name: "Pivotal Systems", logo: pivotalLogo },
     { name: "Infineon", logo: infineonLogo },
     { name: "Micron Technology", logo: micronLogo },
+    
     { name: "FAB", logo: fablogo },
     { name: "Chinese Semiconductor", logo: chineselogo },
     { name: "Ichor Systems", logo: ichorlogo },
