@@ -11,9 +11,9 @@ import { ArrowRight } from "lucide-react";
 import image1 from "figma:asset/99157225a2b4cdd7d5714c5efb9464fcd11c28a9.png";
 import image2 from "figma:asset/51e58a06fc4ff0f62516608f4085a42768a96cdc.png";
 import image3 from "figma:asset/8092c31ca7ea7a9a3ba8d6f25f5183c724211da1.png";
-import image4 from "figma:asset/a5d72cb3c886afe8814d57d93f2c3f5a09d562f6.png";
+//import image4 from "figma:asset/a5d72cb3c886afe8814d57d93f2c3f5a09d562f6.png";
 import image5 from "figma:asset/124cb9aabc271ec1dd685e7672f8c16e4568988d.png";
-import image6 from "figma:asset/123eddbce80c0fdd0df78c907efe18693ce21abb.png";
+//import image6 from "figma:asset/123eddbce80c0fdd0df78c907efe18693ce21abb.png";
 
 export function BannerCarousel() {
   const slides = [
@@ -23,36 +23,43 @@ export function BannerCarousel() {
       title:
         "Elite Semiconductor Talent for Your Critical Projects",
       description:
-        "Connecting industry-leading companies with highly specialized engineers and consultants across chip design, manufacturing, and R&D.",
+        "Connecting industry-leading companies with highly specialized engineers and consultants across semiconductor manufacturing, advanced packaging facilities, semiconductor equipment manufacturers and Contract manufacturing.",
     },
+    // {
+    //   src: image5,
+    //   alt: "Automated semiconductor production line",
+    //   title: "Precision Manufacturing Expertise",
+    //   description:
+    //     "Access top talent in automated production, process engineering, and quality control for semiconductor manufacturing.",
+    // },
     {
       src: image5,
-      alt: "Automated semiconductor production line",
-      title: "Precision Manufacturing Expertise",
+      alt: "Electronic component manufacturing",
+      title: "End-to-End Solutions",
       description:
-        "Access top talent in automated production, process engineering, and quality control for semiconductor manufacturing.",
+        "Specialized manpower for Outsourcing, Preventive Maintenance, Corrective Maintenance and supply chain management",
     },
-    {
-      src: image4,
-      alt: "Advanced semiconductor chip fabrication",
-      title: "Cutting-Edge Technology Partners",
-      description:
-        "Expert consultants specializing in advanced nodes, EDA tools, and next-generation semiconductor technologies.",
-    },
+    // {
+    //   src: image4,
+    //   alt: "Advanced semiconductor chip fabrication",
+    //   title: "Cutting-Edge Technology Partners",
+    //   description:
+    //     "Expert consultants specializing in advanced nodes, EDA tools, and next-generation semiconductor technologies.",
+    // },
     {
       src: image2,
       alt: "Semiconductor chip innovation",
       title: "From Design to Production",
       description:
-        "Comprehensive talent solutions covering IC design, verification, testing, and fab operations.",
+        "Comprehensive solutions covering Gas weldment, Gas Manifold and Gas panel design, verification, testing, and production.",
     },
-    {
-      src: image6,
-      alt: "Electronic component manufacturing",
-      title: "End-to-End Solutions",
-      description:
-        "Specialized manpower for assembly, packaging, testing, and supply chain management.",
-    },
+    // {
+    //   src: image6,
+    //   alt: "Electronic component manufacturing",
+    //   title: "End-to-End Solutions",
+    //   description:
+    //     "Specialized manpower for assembly, packaging, testing, and supply chain management.",
+    // },
     {
       src: image3,
       alt: "Microchip assembly and testing",

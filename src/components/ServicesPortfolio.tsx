@@ -43,6 +43,36 @@ const serviceCategories = [
       "Technical inspections",
     ],
   },
+  {
+    title: "Repair & Service",
+    items: [
+      "Maximizing tool uptime with specialized component repair and refurbishment",
+      "DI water system repair",
+      "Gas Box Repair & Fabrication",
+      "Critical Value Overhaul",
+      "Consumables Sourcing (High Purity Quartzware & Ceramics)",
+    ],
+  },
+  {
+    title: "200mm Equipment",
+    items: [
+      "Reliable sourcing and delivery of legacy 200mm tools and modules",
+      "Module-Based Tool Sales",
+      "Used Tool Refurbishment",
+      "System Integration & Testing",
+      "Warranty and Post-Sale Support",
+    ],
+  },
+  {
+    title: "300mm Equipment",
+    items: [
+      "Providing cost-effective, high-quality 300mm solutions with full turnkey options",
+      "Full Turnkey Solutions",
+      "Advanced Tool Sourcing",
+      "Comprehensive System Refurbishment",
+      "Capacity Expansion Support",
+    ],
+  },
 ];
 
 export function ServicesPortfolio() {
@@ -53,8 +83,8 @@ export function ServicesPortfolio() {
     >
       <div className="container mx-auto px-4 sm:px-6">
         <div className="text-center mb-12">
-          <h2 className="text-gray-900 mb-4">
-            Services Portfolio
+          <h2 className="text-gray-900 mb-4" style={{ fontSize: "2rem", fontWeight: "bold" }}>
+            Our Services & Expertise
           </h2>
           <p className="text-gray-600 text-sm sm:text-base max-w-3xl mx-auto">
             Comprehensive semiconductor support services
