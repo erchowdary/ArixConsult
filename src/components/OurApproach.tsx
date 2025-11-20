@@ -32,7 +32,7 @@ export function OurApproach() {
     <section id="our-approach" className="py-16 md:py-24 bg-gradient-to-br from-gray-50 to-blue-50">
       <div className="container mx-auto px-4 sm:px-6">
         <div className="text-center mb-12">
-          <h2 className="text-gray-900 mb-4">Our Approach</h2>
+          <h2 className="text-gray-900 mb-4" style={{ fontSize: "2.2rem", fontWeight: "bold" }}>Our Approach</h2>
           <p className="text-gray-700 text-sm sm:text-base max-w-3xl mx-auto leading-relaxed">
             We operate on a performance-centric philosophy: fast response, clear communication, engineering-first analysis, and long-term customer partnerships
           </p>

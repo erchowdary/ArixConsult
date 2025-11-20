@@ -34,7 +34,7 @@ export function MarketPositioning() {
     <section id="market-positioning" className="py-16 md:py-24 bg-gradient-to-br from-blue-50 to-indigo-50">
       <div className="container mx-auto px-4 sm:px-6">
         <div className="text-center mb-12">
-          <h2 className="text-gray-900 mb-4">Market Positioning</h2>
+          <h2 className="text-gray-900 mb-4" style={{ fontSize: "2.2rem", fontWeight: "bold" }}>Market Positioning</h2>
           <p className="text-gray-700 text-sm sm:text-base max-w-4xl mx-auto leading-relaxed">
             Arix Consultancy positions itself as a high-reliability partner with strong regional supply chain access in Singapore, Malaysia, China, Taiwan, and India. Our competitive edge lies in speed, engineering depth, and cost transparency.
           </p>
@@ -43,7 +43,7 @@ export function MarketPositioning() {
         <div className="max-w-6xl mx-auto">
           {/* Regional Coverage */}
           <div className="mb-12">
-            <h3 className="text-gray-900 text-center mb-6">Regional Supply Chain Access</h3>
+            <h3 className="text-gray-900 text-center mb-6" style={{ fontSize: "1.2rem", fontWeight: "bold" }}>Regional Supply Chain Access</h3>
             <div className="flex flex-wrap justify-center gap-4">
               {regions.map((region, index) => (
                 <div 
@@ -59,7 +59,7 @@ export function MarketPositioning() {
 
           {/* Competitive Edge */}
           <div>
-            <h3 className="text-gray-900 text-center mb-8">Our Competitive Edge</h3>
+            <h3 className="text-gray-900 text-center mb-8" style={{ fontSize: "1.2rem", fontWeight: "bold" }}>Our Competitive Edge</h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {competitiveEdges.map((edge, index) => {
                 const Icon = edge.icon;

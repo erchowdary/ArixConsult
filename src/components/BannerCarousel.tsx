@@ -91,7 +91,7 @@ export function BannerCarousel() {
         <CarouselContent>
           {slides.map((slide, index) => (
             <CarouselItem key={index}>
-              <div className="relative h-[300px] sm:h-[300px] md:h-[300px] lg:h-[200px]">
+              <div className="relative h-[300px] sm:h-[300px] md:h-[800px] lg:h-[800px]">
                 <img
                   src={slide.src}
                   alt={slide.alt}
@@ -104,7 +104,7 @@ export function BannerCarousel() {
                 <div className="absolute inset-0 flex items-center">
                   <div className="container mx-auto px-4 sm:px-6">
                     <div className="max-w-2xl text-white">
-                      <h1 className="text-white mb-4 sm:mb-6 drop-shadow-lg">
+                      <h1 className="text-white mb-4 sm:mb-6 drop-shadow-lg" style={{ fontSize: '3rem', lineHeight: '2.5rem', fontWeight: '700' }}>
                         {slide.title}
                       </h1>
                       <p className="text-base sm:text-lg md:text-xl text-gray-100 mb-6 sm:mb-8 leading-relaxed drop-shadow-md">

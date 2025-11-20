@@ -32,7 +32,7 @@ export function LeadershipTalent() {
     <section id="leadership" className="py-16 md:py-24 bg-white">
       <div className="container mx-auto px-4 sm:px-6">
         <div className="text-center mb-12">
-          <h2 className="text-gray-900 mb-4">Leadership & Talent</h2>
+          <h2 className="text-gray-900 mb-4" style={{ fontSize: "2.2rem", fontWeight: "bold" }}>Leadership & Talent</h2>
           <p className="text-gray-700 text-base sm:text-lg max-w-4xl mx-auto leading-relaxed">
             Our leadership team consists of engineers and supply-chain specialists with deep fab experience across Asia. We emphasise continuous training, safety, and process discipline.
           </p>
@@ -49,7 +49,7 @@ export function LeadershipTalent() {
                 <div className={`w-16 h-16 ${item.color} rounded-full flex items-center justify-center mx-auto mb-4`}>
                   <Icon className="h-8 w-8 text-white" />
                 </div>
-                <h3 className="text-gray-900 mb-3">{item.title}</h3>
+                <h3 className="text-gray-900 mb-3" style={{ fontSize: "1.2rem", fontWeight: "bold" }}>{item.title}</h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
                   {item.description}
                 </p>
