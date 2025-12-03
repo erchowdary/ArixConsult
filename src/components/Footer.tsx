@@ -1,5 +1,5 @@
 import { Linkedin, Mail } from "lucide-react";
-import logo from "figma:asset/22ad7292bd829158e82abf6b247017ce09519674.png";
+import logo from "figma:asset/Footerlogo.png";
 
 export function Footer() {
   return (

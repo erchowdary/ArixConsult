@@ -29,7 +29,7 @@
         'figma:asset/4b4e54a0af33ca1b3cdb4f99934ad83633a88bfb.png': path.resolve(__dirname, './src/assets/4b4e54a0af33ca1b3cdb4f99934ad83633a88bfb.png'),
         'figma:asset/Micronlogo.png': path.resolve(__dirname, './src/assets/Micronlogo.png'),
         'figma:asset/297e20df920bb226000767ca4b9fc14238e7727a.png': path.resolve(__dirname, './src/assets/297e20df920bb226000767ca4b9fc14238e7727a.png'),
-        'figma:asset/22ad7292bd829158e82abf6b247017ce09519674.png': path.resolve(__dirname, './src/assets/22ad7292bd829158e82abf6b247017ce09519674.png'),
+        'figma:asset/Footerlogo.png': path.resolve(__dirname, './src/assets/Footerlogo.png'),
         'figma:asset/1544acc375eeab48afe767a0c9b9c215d95d1d48.png': path.resolve(__dirname, './src/assets/1544acc375eeab48afe767a0c9b9c215d95d1d48.png'),
         'figma:asset/124cb9aabc271ec1dd685e7672f8c16e4568988d.png': path.resolve(__dirname, './src/assets/124cb9aabc271ec1dd685e7672f8c16e4568988d.png'),
         'figma:asset/123eddbce80c0fdd0df78c907efe18693ce21abb.png': path.resolve(__dirname, './src/assets/123eddbce80c0fdd0df78c907efe18693ce21abb.png'),
@@ -46,7 +46,7 @@
         'figma:asset/Deefinelogo.png': path.resolve(__dirname, './src/assets/Deefinelogo.png'),
         'embla-carousel-react@8.6.0': 'embla-carousel-react',
         'cmdk@1.1.1': 'cmdk',
-        'class-variance-authority@0.7.1': 'class-variance-authority',6cd0814decd4e03a43f363b1d9467d5013af892b.png
+        'class-variance-authority@0.7.1': 'class-variance-authority',
         '@radix-ui/react-tooltip@1.1.8': '@radix-ui/react-tooltip',
         '@radix-ui/react-toggle@1.1.2': '@radix-ui/react-toggle',
         '@radix-ui/react-toggle-group@1.1.2': '@radix-ui/react-toggle-group',
