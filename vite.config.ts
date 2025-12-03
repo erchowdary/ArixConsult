@@ -30,6 +30,8 @@
         'figma:asset/Micronlogo.png': path.resolve(__dirname, './src/assets/Micronlogo.png'),
         'figma:asset/297e20df920bb226000767ca4b9fc14238e7727a.png': path.resolve(__dirname, './src/assets/297e20df920bb226000767ca4b9fc14238e7727a.png'),
         'figma:asset/Footerlogo.png': path.resolve(__dirname, './src/assets/Footerlogo.png'),
+        'figma:asset/22ad7292bd829158e82abf6b247017ce09519674.png': path.resolve(__dirname, './src/assets/22ad7292bd829158e82abf6b247017ce09519674.png'),
+        
         'figma:asset/1544acc375eeab48afe767a0c9b9c215d95d1d48.png': path.resolve(__dirname, './src/assets/1544acc375eeab48afe767a0c9b9c215d95d1d48.png'),
         'figma:asset/124cb9aabc271ec1dd685e7672f8c16e4568988d.png': path.resolve(__dirname, './src/assets/124cb9aabc271ec1dd685e7672f8c16e4568988d.png'),
         'figma:asset/123eddbce80c0fdd0df78c907efe18693ce21abb.png': path.resolve(__dirname, './src/assets/123eddbce80c0fdd0df78c907efe18693ce21abb.png'),
