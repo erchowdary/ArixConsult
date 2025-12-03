@@ -31,7 +31,7 @@ export function Contact() {
     <section id="contact" className="py-16 md:py-24 bg-gray-50">
       <div className="container mx-auto px-4 sm:px-6">
         <div className="text-center mb-12">
-          <h2 className="text-gray-900 mb-4">Get In Touch</h2>
+          <h2 className="text-gray-900 mb-4" style={{ fontSize: "2.2rem", fontWeight: "bold" }}>Get In Touch</h2>
           <p className="text-gray-600 max-w-2xl mx-auto text-base sm:text-lg">
             Looking for effective engineering solutions and talents? Let’s discuss your needs.
           </p>
@@ -43,7 +43,7 @@ export function Contact() {
               <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Mail className="h-6 w-6 text-blue-600" />
               </div>
-              <h3 className="text-gray-900 mb-2">Email</h3>
+              <h3 className="text-gray-900 mb-2" style={{ fontSize: "1.2rem", fontWeight: "bold" }}>Email</h3>
               <p className="text-gray-600 text-sm sm:text-base break-words">sales@arixconsult.com</p>
             </CardContent>
           </Card>
@@ -53,7 +53,7 @@ export function Contact() {
               <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Phone className="h-6 w-6 text-blue-600" />
               </div>
-              <h3 className="text-gray-900 mb-2">Phone</h3>
+              <h3 className="text-gray-900 mb-2" style={{ fontSize: "1.2rem", fontWeight: "bold" }}>Phone</h3>
               <p className="text-gray-600 text-sm sm:text-base">+65 6931 7027</p>
             </CardContent>
           </Card>
@@ -63,7 +63,7 @@ export function Contact() {
               <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                 <MapPin className="h-6 w-6 text-blue-600" />
               </div>
-              <h3 className="text-gray-900 mb-2">Location</h3>
+              <h3 className="text-gray-900 mb-2" style={{ fontSize: "1.2rem", fontWeight: "bold" }}>Location</h3>
               <p className="text-gray-600 text-sm sm:text-base">12 New Industrial Road, #02-01B Morningstar Center, Singapore 536202</p>
             </CardContent>
           </Card>
@@ -139,7 +139,7 @@ export function Contact() {
 
         <div className="mt-12 sm:mt-16">
           <div className="text-center mb-6 sm:mb-8">
-            <h3 className="text-gray-900 mb-2">Visit Our Office</h3>
+            <h3 className="text-gray-900 mb-2" style={{ fontSize: "1.2rem", fontWeight: "bold" }}>Visit Our Office</h3>
             <p className="text-gray-600 text-sm sm:text-base px-4">
               12 New Industrial Road, #02-01B Morningstar Center, Singapore 536202
             </p>

@@ -32,7 +32,7 @@ export function SemiconductorExpertise() {
     <section id="semiconductor-expertise" className="py-16 md:py-24 bg-white">
       <div className="container mx-auto px-4 sm:px-6">
         <div className="text-center mb-12">
-          <h2 className="text-gray-900 mb-4">Semiconductor Industry Expertise</h2>
+          <h2 className="text-gray-900 mb-4" style={{ fontSize: "2.2rem", fontWeight: "bold" }}>Semiconductor Industry Expertise</h2>
           <p className="text-gray-700 text-sm sm:text-base max-w-4xl mx-auto leading-relaxed">
             We support 200mm and 300mm fabs in Process, Equipment, Facilities, Yield, and Industrial Engineering domains. Our experience includes Wet Clean, Etch, Diffusion, Furnace, Lithography, CMP, Metrology, PVD, CVD, Implant, and FA Labs.
           </p>

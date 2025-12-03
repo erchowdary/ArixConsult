@@ -99,7 +99,7 @@ export function ServicesPortfolio() {
               className="border border-gray-200 shadow-lg hover:shadow-xl transition-all bg-white"
             >
               <CardContent className="p-6">
-                <h3 className="text-gray-900 mb-4 pb-3 border-b border-gray-200">
+                <h3 className="text-gray-900 mb-4 pb-3 border-b border-gray-200" style={{ fontSize: "1.25rem", fontWeight: "600" }}>
                   {category.title}
                 </h3>
                 <ul className="space-y-3">

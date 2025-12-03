@@ -14,7 +14,7 @@ export function MissionVision() {
                   <div className="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center flex-shrink-0">
                     <Target className="h-6 w-6 text-white" />
                   </div>
-                  <h2 className="text-gray-900">Our Mission</h2>
+                  <h2 className="text-gray-900" style={{ fontSize: "1.5rem", fontWeight: "bold" }}>Our Mission</h2>
                 </div>
                 <p className="text-gray-700 text-sm sm:text-base leading-relaxed">
                   To deliver high-performance engineering solutions, strategic sourcing, and reliable technical manpower that enable semiconductor manufacturers to operate with world-class efficiency, service excellence, and cost competitiveness.
@@ -29,7 +29,7 @@ export function MissionVision() {
                   <div className="w-12 h-12 bg-indigo-600 rounded-full flex items-center justify-center flex-shrink-0">
                     <Eye className="h-6 w-6 text-white" />
                   </div>
-                  <h2 className="text-gray-900">Our Vision</h2>
+                  <h2 className="text-gray-900" style={{ fontSize: "1.5rem", fontWeight: "bold" }}>Our Vision</h2>
                 </div>
                 <p className="text-gray-700 text-sm sm:text-base leading-relaxed">
                   To be Asia's most trusted semiconductor engineering and sourcing partner—recognized for technical depth, operational agility, and a commitment to reducing total cost of ownership (TCO) across every fab we support.

@@ -68,7 +68,7 @@ export function CoreValues() {
     <section id="core-values" className="py-16 md:py-24 bg-white">
       <div className="container mx-auto px-4 sm:px-6">
         <div className="text-center mb-12">
-          <h2 className="text-gray-900 mb-4">Core Values</h2>
+          <h2 className="text-gray-900 mb-4" style={{ fontSize: "2.2rem", fontWeight: "bold" }}>Core Values</h2>
           <p className="text-gray-600 text-sm sm:text-base max-w-3xl mx-auto">
             Our values guide every decision we make and every solution we deliver
           </p>
@@ -89,7 +89,7 @@ export function CoreValues() {
                     </div>
                     <div className="flex-1">
                       <div className="text-xs text-gray-500 mb-1">{value.number}</div>
-                      <h3 className="text-gray-900">{value.title}</h3>
+                      <h3 className="text-gray-900" style={{ fontSize: "1.2rem", fontWeight: "bold" }}>{value.title}</h3>
                     </div>
                   </div>
                   <p className="text-gray-600 text-sm leading-relaxed">

@@ -37,7 +37,7 @@ export function FutureGrowth() {
     <section id="future-growth" className="py-16 md:py-24 bg-gradient-to-br from-blue-50 to-indigo-50">
       <div className="container mx-auto px-4 sm:px-6">
         <div className="text-center mb-12">
-          <h2 className="text-gray-900 mb-4">Future Growth Plans</h2>
+          <h2 className="text-gray-900 mb-4" style={{ fontSize: "2.2rem", fontWeight: "bold" }}>Future Growth Plans</h2>
           <p className="text-gray-600 text-sm sm:text-base max-w-3xl mx-auto">
             Building the future of semiconductor engineering and sourcing excellence
           </p>
@@ -56,7 +56,7 @@ export function FutureGrowth() {
                     <div className={`w-14 h-14 ${plan.color} rounded-full flex items-center justify-center mx-auto mb-4`}>
                       <Icon className="h-7 w-7 text-white" />
                     </div>
-                    <h3 className="text-gray-900 text-center mb-2">{plan.title}</h3>
+                    <h3 className="text-gray-900 text-center mb-2" style={{ fontSize: "1.2rem", fontWeight: "bold" }}>{plan.title}</h3>
                   </div>
                   <p className="text-gray-700 text-sm sm:text-base text-center leading-relaxed">
                     {plan.description}
