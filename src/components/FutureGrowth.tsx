@@ -5,28 +5,28 @@ const growthPlans = [
   {
     icon: MapPin,
     title: "India Expansion",
-    description: "Expansion into India's semiconductor ecosystem",
+    description: "Expansion Into India's Semiconductor Ecosystem",
     color: "bg-orange-600",
     gradient: "from-orange-50 to-red-50"
   },
   {
     icon: Users,
     title: "Manpower Growth",
-    description: "Building a larger manpower pool for 200mm/300mm support",
+    description: "Building a Larger Manpower Pool For 200mm/300mm Support",
     color: "bg-blue-600",
     gradient: "from-blue-50 to-indigo-50"
   },
   {
     icon: Handshake,
     title: "Strategic Partnerships",
-    description: "Strategic partnerships with OEMs, tool refurbishers, and parts suppliers",
+    description: "Strategic Partnerships With OPMs, Tool Refurbishers, and Consumable Parts Suppliers",
     color: "bg-purple-600",
     gradient: "from-purple-50 to-pink-50"
   },
   {
     icon: Database,
     title: "Digital Transformation",
-    description: "Digitalisation of sourcing and engineering knowledge systems",
+    description: "Digitalisation Of Sourcing and Engineering Knowledge Systems",
     color: "bg-green-600",
     gradient: "from-green-50 to-teal-50"
   }
@@ -70,7 +70,7 @@ export function FutureGrowth() {
         <div className="mt-12 text-center">
           <div className="inline-block bg-white rounded-xl px-8 py-4 shadow-lg">
             <p className="text-gray-700 text-sm sm:text-base">
-              Positioning for the next wave of semiconductor growth in Asia
+              Positioning for the Next Wave of Semiconductor Growth in Asia
             </p>
           </div>
         </div>

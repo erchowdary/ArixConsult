@@ -24,7 +24,7 @@ const values = [
     color: "indigo"
   },
   {
-    number: "4.4",
+    number: "",
     title: "Agility & Problem-Solving",
     description: "We respond quickly, adapt to dynamic market conditions, and provide solutions that minimize downtime, risks, and operational disruptions.",
     icon: Zap,

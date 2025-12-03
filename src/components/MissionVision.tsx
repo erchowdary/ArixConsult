@@ -17,7 +17,7 @@ export function MissionVision() {
                   <h2 className="text-gray-900">Our Mission</h2>
                 </div>
                 <p className="text-gray-700 text-sm sm:text-base leading-relaxed">
-                  To deliver high-performance engineering solutions, strategic sourcing, and reliable technical manpower that enable semiconductor manufacturers to operate with world-class efficiency, service excellence, and cost competitiveness. We empower our partners to achieve faster tool recovery, higher uptime, better yield, and sustainable long-term growth.
+                  To deliver high-performance engineering solutions, strategic sourcing, and reliable technical manpower that enable semiconductor manufacturers to operate with world-class efficiency, service excellence, and cost competitiveness.
                 </p>
               </CardContent>
             </Card>
@@ -32,7 +32,7 @@ export function MissionVision() {
                   <h2 className="text-gray-900">Our Vision</h2>
                 </div>
                 <p className="text-gray-700 text-sm sm:text-base leading-relaxed">
-                  To be Asia's most trusted semiconductor engineering and sourcing partner—recognized for technical depth, operational agility, and a commitment to reducing total cost of ownership (TCO) across every fab we support. Arix Consultancy aims to be the preferred bridge between global technology, regional supply networks, and future-ready engineering talent.
+                  To be Asia's most trusted semiconductor engineering and sourcing partner—recognized for technical depth, operational agility, and a commitment to reducing total cost of ownership (TCO) across every fab we support.
                 </p>
               </CardContent>
             </Card>

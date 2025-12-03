@@ -2,52 +2,52 @@ import { CheckCircle } from "lucide-react";
 import { Card, CardContent } from "./ui/card";
 
 const serviceCategories = [
-  {
-    title: "Installation & Relocation",
-    items: [
-      "Tool installation, relocation, and decommissioning",
-    ],
-  },
-  {
-    title: "Equipment Sourcing",
-    items: ["Refurbished tool sourcing (8'' & 12'' fabs)"],
-  },
+  // {
+  //   title: "Installation & Relocation",
+  //   items: [
+  //     "Tool installation, relocation, and decommissioning",
+  //   ],
+  // },
+  // {
+  //   title: "Equipment Sourcing",
+  //   items: ["Refurbished tool sourcing (8'' & 12'' fabs)"],
+  // },
   {
     title: "Critical Parts",
     items: [
-      "Quartzware, o-rings, ceramics",
-      "ESCs, valves, MFCs",
-      "Design to built gas Weldment solutions",
-      "IGS gas panels",
+      "Quartzware, O-rings, Ceramics",
+      "ESCs, Valves, MFCs",
+      "Design To Built Gas Weldment Solutions",
+      "IGS Gas Panels",
     ],
   },
-  {
-    title: "Parts Programs",
-    items: [
-      "Swap kits for Etch, PVD, Furnace",
-      "Parts cleaning programs",
-    ],
-  },
+  // {
+  //   title: "Parts Programs",
+  //   items: [
+  //     "Swap kits for Etch, PVD, Furnace",
+  //     "Parts cleaning programs",
+  //   ],
+  // },
   {
     title: "Manpower Support",
-    items: ["Onsite manpower support", "Contract engineering"],
+    items: ["Onsite Manpower Support", "Contract Engineering"],
   },
   {
     title: "Consulting & Optimization",
-    items: ["OEE and cost reduction consulting"],
+    items: ["OEE And Cost Reduction Consulting"],
   },
-  {
-    title: "Equipment Transactions",
-    items: [
-      "Used tools buy/sell transactions",
-      "Technical inspections",
-    ],
-  },
+  // {
+  //   title: "Equipment Transactions",
+  //   items: [
+  //     "Used tools buy/sell transactions",
+  //     "Technical inspections",
+  //   ],
+  // },
   {
     title: "Repair & Service",
     items: [
-      "Maximizing tool uptime with specialized component repair and refurbishment",
-      "DI water system repair",
+      "Maximizing Tool Uptime With Specialized Component Repair and Refurbishment",
+      "DI Water System Repair",
       "Gas Box Repair & Fabrication",
       "Critical Value Overhaul",
       "Consumables Sourcing (High Purity Quartzware & Ceramics)",
@@ -56,17 +56,17 @@ const serviceCategories = [
   {
     title: "200mm Equipment",
     items: [
-      "Reliable sourcing and delivery of legacy 200mm tools and modules",
+      "Reliable Sourcing And Delivery Of Legacy 200mm Tools And Modules",
       "Module-Based Tool Sales",
       "Used Tool Refurbishment",
       "System Integration & Testing",
-      "Warranty and Post-Sale Support",
+      "Warranty And Post-Sale Support",
     ],
   },
   {
     title: "300mm Equipment",
     items: [
-      "Providing cost-effective, high-quality 300mm solutions with full turnkey options",
+      "Providing Cost-Effective, High-Quality 300mm Solutions With Full Turnkey Options",
       "Full Turnkey Solutions",
       "Advanced Tool Sourcing",
       "Comprehensive System Refurbishment",

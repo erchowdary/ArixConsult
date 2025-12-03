@@ -65,7 +65,7 @@ export function BannerCarousel() {
       alt: "Microchip assembly and testing",
       title: "Quality & Innovation Driven",
       description:
-        "500+ successful placements with leading semiconductor companies worldwide.",
+        "Partner With Leading Semiconductor Suppliers To Offer Innovative And Effective Solutions.",
     },
   ];
 

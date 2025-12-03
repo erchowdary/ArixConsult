@@ -33,7 +33,7 @@ export function Contact() {
         <div className="text-center mb-12">
           <h2 className="text-gray-900 mb-4">Get In Touch</h2>
           <p className="text-gray-600 max-w-2xl mx-auto text-base sm:text-lg">
-            Ready to build your semiconductor team? Let's discuss your talent needs.
+            Looking for effective engineering solutions and talents? Let’s discuss your needs.
           </p>
         </div>
 
