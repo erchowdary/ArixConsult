@@ -99,12 +99,24 @@ export function Header() {
               Overview
             </button>
             <button
+              onClick={() => scrollToSection("core-values")}
+              className="block w-full text-left px-4 py-2 text-gray-600 hover:text-blue-600 hover:bg-gray-50 rounded-lg transition-colors"
+            >
+             Core Values
+            </button>
+            <button
               onClick={() =>
                 scrollToSection("services-portfolio")
               }
               className="block w-full text-left px-4 py-2 text-gray-600 hover:text-blue-600 hover:bg-gray-50 rounded-lg transition-colors"
             >
               Services
+            </button>
+            <button
+              onClick={() => scrollToSection("")}
+              className="block w-full text-left px-4 py-2 text-gray-600 hover:text-blue-600 hover:bg-gray-50 rounded-lg transition-colors"
+            >
+             Products
             </button>
             <button
               onClick={() => scrollToSection("our-approach")}
@@ -124,12 +136,7 @@ export function Header() {
             >
               Future Growth
             </button>
-            <button
-              onClick={() => scrollToSection("core-values")}
-              className="block w-full text-left px-4 py-2 text-gray-600 hover:text-blue-600 hover:bg-gray-50 rounded-lg transition-colors"
-            >
-             Core Values
-            </button>
+            
             <Button
               onClick={() => scrollToSection("contact")}
               className="w-full"

@@ -48,19 +48,17 @@ export function Footer() {
                 <span>Phone: +65 6931 7027</span>
               </li>
             </ul>
-          </div>
-          <div className="sm:col-span-2 lg:col-span-1">
-            <div className="flex items-center gap-2 mb-4">
-              <img src={securitycertificatelogo} alt="ARIX Consultancy" className="h-10 brightness-0 invert" />
+            <div className="flex items-center gap-2">
+              <img src={securitycertificatelogo} alt="Security Certificate" />
             </div>
-            
-          </div>
+          </div>          
         </div>
 
         <div className="border-t border-gray-800 pt-6 sm:pt-8">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4 text-sm">
             <p>© 2024 Arix Consultancy Pte Ltd. All rights reserved.</p>
             <div className="flex gap-4 sm:gap-6">
+              <img src={securitycertificatelogo} alt="Security Certificate" />
               {/* <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
               <a href="#" className="hover:text-white transition-colors">Terms of Service</a> */}
             </div>
