@@ -9,7 +9,7 @@ export function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8 mb-8">
           <div className="sm:col-span-2 lg:col-span-1">
             <div className="flex items-center gap-2 mb-4">
-              <img src={logo} alt="ARIX Consultancy" />
+              <img src={logo} alt="ARIX Consultancy" className="h-10 brightness-0 invert" />
             </div>
             <p className="text-sm leading-relaxed">
               Leading Semiconductor Engineering Solutions Provider, Connecting Exceptional Professionals with Industry Pioneers.
