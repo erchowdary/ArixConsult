@@ -1,5 +1,6 @@
 import { Linkedin, Mail } from "lucide-react";
 import logo from "figma:asset/Footerlogo.png";
+import securitycertificatelogo from "figma:asset/SecurityCertificate.png";
 
 export function Footer() {
   return (
@@ -47,6 +48,12 @@ export function Footer() {
                 <span>Phone: +65 6931 7027</span>
               </li>
             </ul>
+          </div>
+          <div className="sm:col-span-2 lg:col-span-1">
+            <div className="flex items-center gap-2 mb-4">
+              <img src={securitycertificatelogo} alt="ARIX Consultancy" className="h-10 brightness-0 invert" />
+            </div>
+            
           </div>
         </div>
 

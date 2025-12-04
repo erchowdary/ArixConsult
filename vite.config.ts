@@ -23,6 +23,7 @@
         'figma:asset/99157225a2b4cdd7d5714c5efb9464fcd11c28a9.png': path.resolve(__dirname, './src/assets/99157225a2b4cdd7d5714c5efb9464fcd11c28a9.png'),
         'figma:asset/8092c31ca7ea7a9a3ba8d6f25f5183c724211da1.png': path.resolve(__dirname, './src/assets/8092c31ca7ea7a9a3ba8d6f25f5183c724211da1.png'),
         'figma:asset/TataElectronicsLogo.png': path.resolve(__dirname, './src/assets/TataElectronicsLogo.png'),
+        'figma:asset/globalfoundariesLogo.png': path.resolve(__dirname, './src/assets/globalfoundariesLogo.png'),
         'figma:asset/602cf9647dfc5e3c6b2b5c963179ff73f938fe31.png': path.resolve(__dirname, './src/assets/602cf9647dfc5e3c6b2b5c963179ff73f938fe31.png'),
         'figma:asset/521933943d78a15a10c97d6cd87cb704b4d383f2.png': path.resolve(__dirname, './src/assets/521933943d78a15a10c97d6cd87cb704b4d383f2.png'),
         'figma:asset/51e58a06fc4ff0f62516608f4085a42768a96cdc.png': path.resolve(__dirname, './src/assets/51e58a06fc4ff0f62516608f4085a42768a96cdc.png'),
@@ -31,6 +32,7 @@
         'figma:asset/297e20df920bb226000767ca4b9fc14238e7727a.png': path.resolve(__dirname, './src/assets/297e20df920bb226000767ca4b9fc14238e7727a.png'),
         'figma:asset/Footerlogo.png': path.resolve(__dirname, './src/assets/Footerlogo.png'),
         'figma:asset/22ad7292bd829158e82abf6b247017ce09519674.png': path.resolve(__dirname, './src/assets/22ad7292bd829158e82abf6b247017ce09519674.png'),
+        'figma:asset/SecurityCertificate.png': path.resolve(__dirname, './src/assets/SecurityCertificate.png'),
         
         'figma:asset/1544acc375eeab48afe767a0c9b9c215d95d1d48.png': path.resolve(__dirname, './src/assets/1544acc375eeab48afe767a0c9b9c215d95d1d48.png'),
         'figma:asset/124cb9aabc271ec1dd685e7672f8c16e4568988d.png': path.resolve(__dirname, './src/assets/124cb9aabc271ec1dd685e7672f8c16e4568988d.png'),

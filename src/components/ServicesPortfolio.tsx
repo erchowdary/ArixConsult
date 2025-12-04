@@ -47,10 +47,9 @@ const serviceCategories = [
     title: "Repair & Service",
     items: [
       "Maximizing Tool Uptime With Specialized Component Repair and Refurbishment",
-      "DI Water System Repair",
+      "RPS, RF Gen, RF Filters Overhaul",
       "Gas Box Repair & Fabrication",
-      "Critical Value Overhaul",
-      "Consumables Sourcing (High Purity Quartzware & Ceramics)",
+      "MFC, Valves, Gas Manifold Overhaul",      
     ],
   },
   {

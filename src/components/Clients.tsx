@@ -18,10 +18,12 @@ import uctLogo from "figma:asset/uct.png";
 import VISlogo from "figma:asset/VISlogo.png";
 import Vitallogo from "figma:asset/Vitallogo.png";
 import Deefinelogo from "figma:asset/Deefinelogo.png";
+import globalfoundariesLogo from "figma:asset/globalfoundariesLogo.png";
 
 export function Clients() {
   const clients = [
     { name: "Tata", logo: tataLogo },
+    { name: "GlobalFoundries", logo: globalfoundariesLogo },
     { name: "SSMC", logo: ssmcLogo },
     { name: "Applied Materials", logo: appliedMaterialsLogo },
     { name: "Dashing", logo: dashingLogo },
@@ -54,34 +56,40 @@ export function Clients() {
           
           {/* Regional Coverage */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 sm:gap-6 max-w-4xl mx-auto mt-8">
-            <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-4 sm:p-6 text-left">
+            <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-4 sm:p-6 text-center">
               <h3 className="text-gray-900 mb-2">Singapore</h3>
               <p className="text-gray-700 text-sm">
                 200mm & 300mm Fabs, OSATs
               </p>
             </div>
-            <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-4 sm:p-6 text-left">
+            <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-4 sm:p-6 text-center">
               <h3 className="text-gray-900 mb-2">Malaysia</h3>
               <p className="text-gray-700 text-sm">
                 200mm Fabs, OSATs
               </p>
             </div>
-            <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-4 sm:p-6 text-left">
+            <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-4 sm:p-6 text-center">
               <h3 className="text-gray-900 mb-2">India</h3>
               <p className="text-gray-700 text-sm">
                 200mm Fab, New Fab Projects
               </p>
             </div>
-            <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-4 sm:p-6 text-left">
+            <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-4 sm:p-6 text-center">
               <h3 className="text-gray-900 mb-2">China</h3>
               <p className="text-gray-700 text-sm">
                 OPMs on Quartz, Silicon, Graphite, Filters
               </p>
             </div>
-            <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-4 sm:p-6 text-left">
+            <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-4 sm:p-6 text-center">
               <h3 className="text-gray-900 mb-2">Taiwan</h3>
               <p className="text-gray-700 text-sm">
                 OPMs on Bearings, O-rings, Seals & POU Exhaust Solutions
+              </p>
+            </div>
+            <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-4 sm:p-6 text-center">
+              <h3 className="text-gray-900 mb-2">USA & Japan</h3>
+              <p className="text-gray-700 text-sm">
+                OEM On Site Technical Representative
               </p>
             </div>
           </div>
